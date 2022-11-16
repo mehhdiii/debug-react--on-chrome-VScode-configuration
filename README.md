@@ -1,5 +1,5 @@
 
-# Debug reactJS on chrome  
+# Debug Reactjs on chrome  
 
 Open *launch.json* inside */.vscode* (if not present, create the file). Copy (or append to the configuration array) the following: 
 
