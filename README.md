@@ -33,7 +33,7 @@ Open *launch.json* inside */.vscode* (if not present, create the file). Copy (or
 
 Run react project as usual with the following command: 
 
-```json
+```bash
 npm start
 ```
 
